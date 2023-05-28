@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c95bde98-5fb9-4904-a0f1-aa3905b0d934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MonPremierProgramme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MonPremierProgrammeNouveau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MonPremierProgrammeNouveau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MonPremierProgrammeNouveau.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/ciam92/Desktop/IGL-Learning/parcoursDebutant/Module02-Ecrire-et-executer-des programmes-Java/03_Ecrire-et-executer-un-programme-Java/IntroductionJava",
+    "last_opened_file_path": "/Users/ciam92/Desktop/IGL-Learning/parcoursDebutant/Module02-Ecrire-et-executer-des programmes-Java/05_Les-commentaires-en-Java/IntroductionJava",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
