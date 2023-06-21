@@ -1,13 +1,14 @@
-public class MonPremierProgrammeNouveau {
+public class MonPremierProgramme {
+
+    public static String prenom = "otis";
+
     public static void main(String[] args) {
 
 
-        /*Dans cette fonction ci-dessous nous allons afficher dans la console "Hello World";*/
+       String nom = "DeCode" ;
 
-        //Dans cette fonction ci-dessous nous allons afficher dans la console "Hello World";
 
-        System.out.println("Hello world!");
-
+        System.out.format("Mon prenom est %s et mon nom est %s ", prenom, nom);
 
     }
 }
