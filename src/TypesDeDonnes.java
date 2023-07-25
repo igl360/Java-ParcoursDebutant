@@ -3,37 +3,49 @@ public class TypesDeDonnes {
 
         // Retirer les commentaires pour accéder au code
 
-/*
-        int variableInt = 2147483647;
-        System.out.println("La valeur de variableInt est " + variableInt);
 
-        int newVariableInt = 214_748_3647;
-        System.out.println("La valeur de newVariableInt est " + newVariableInt);
+/*        byte variableByte= 70;
+        System.out.println("La valeur de variableByte est " + variableByte);
 
-        //Ensuite j'augmente la valeur de la varaible pour montrer la limite
-        int newVariableInt = 214_748_3647_123;
-        System.out.println("La valeur de newVariableInt est " + newVariableInt);
+        byte negatifByte = -90;
+        System.out.println("La valeur de negatifByte est " + negatifByte);
 
-        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-        long variableLong = 214_748_3647_123L;
-        System.out.println("La valeur de variableLong est " + variableLong);
+        //Ensuite j'augmente la valeur de la variable pour montrer la limite
+        byte newVariableByte = 127;
+        System.out.println("La valeur de newVariableByte est " + newVariableByte);
 
         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        float variableFloat = 753.38f;
-        System.out.println("La valeur de variableFloat est " + variableFloat);
+        short variableShort = 32767;
+        System.out.println("La valeur de variableShort est " + variableShort);
 
-        double variableDouble = 753.38d;
-        System.out.println("La valeur de variableDouble est " + variableDouble);
+        short negatifShort = -32767;
+        System.out.println("La valeur de negatifShort est " + negatifShort);
 
         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        float variableFloat = 753e5f;
-        System.out.println("La valeur de variableFloat est " + variableFloat);
+        char lettre = "Z";
+        System.out.println("La valeur de lettre est " + lettre);
 
-        double variableDouble = 753.10e-3d;
-        System.out.println("La valeur de variableDouble est " + variableDouble);*/
+        char variableUnicode = '\u0052';
+        System.out.println("La valeur de variableUnicode est " + variableUnicode);
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        boolean laTerreEstRonde = true;
+        System.out.println("La terre est ronde? : " + laTerreEstRonde);
+
+        boolean leCielBleu = false;
+        System.out.println("Le ciel est toujours bleu? : " + leCielBleu);
+
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        int nombre1 = 35;
+        int nombre2 = 59;
+
+        boolean resultat = nombre1 > nombre2;
+        System.out.println("Le nombre 1 est-il supérieur au nombre 2? : " + resultat);*/
 
 
     }
