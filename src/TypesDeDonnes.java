@@ -1,30 +1,40 @@
 public class TypesDeDonnes {
     public static void main(String[] args) {
 
-        boolean faitTilBeau = true; //binaire
+        // Retirer les commentaires pour accéder au code
 
-        byte unByte = 3; //1octet => 8bits => -128<byte<127 soit 256 valeurs possibles
+/*
+        int variableInt = 2147483647;
+        System.out.println("La valeur de variableInt est " + variableInt);
 
-        char unCaractere = 'C'; //2octets => 16bits => -32768<char<32767 soit 65535 valeurs possibles
+        int newVariableInt = 214_748_3647;
+        System.out.println("La valeur de newVariableInt est " + newVariableInt);
 
-        short nombreDeBallons = 7; //2octets => 16bits => -32768<short<32767 soit 65535 valeurs possibles
+        //Ensuite j'augmente la valeur de la varaible pour montrer la limite
+        int newVariableInt = 214_748_3647_123;
+        System.out.println("La valeur de newVariableInt est " + newVariableInt);
 
-        int age = 35; //4octets => 32bits => -2,1milliards<int<2,1milliards soit 4,2milliards valeurs possibles
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        long chiffreDaffaire = 34575L; //8octets => 64bits => Je vous laisse faire le calcul
+        long variableLong = 214_748_3647_123L;
+        System.out.println("La valeur de variableLong est " + variableLong);
 
-        float petitNombreDecimal = 7.3f; //4octets => 32bits //8octets => 64bits
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        double grandNombreDecimal = 97345.37d; //8octets => 64bits
+        float variableFloat = 753.38f;
+        System.out.println("La valeur de variableFloat est " + variableFloat);
 
-        System.out.println("Fait-il vraiment beau? La réponse est: " + faitTilBeau);
-        System.out.println("le byte renseigné est: " + unByte);
-        System.out.println("le caractère renseigné est: " + unCaractere);
-        System.out.println("Le nombre de ballons est de: " + nombreDeBallons);
-        System.out.println("L'âge renseigné est de: " + age);
-        System.out.println("Le C.A de l'entreprise est de: " + chiffreDaffaire);
-        System.out.println("Ce petit nombre décimal vaut: " + petitNombreDecimal);
-        System.out.println("Ce grand nombre décimal vaut: " + grandNombreDecimal);
+        double variableDouble = 753.38d;
+        System.out.println("La valeur de variableDouble est " + variableDouble);
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        float variableFloat = 753e5f;
+        System.out.println("La valeur de variableFloat est " + variableFloat);
+
+        double variableDouble = 753.10e-3d;
+        System.out.println("La valeur de variableDouble est " + variableDouble);*/
+
 
     }
 }

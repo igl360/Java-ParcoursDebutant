@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c95bde98-5fb9-4904-a0f1-aa3905b0d934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TypesDeDonnes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MonPremierProgramme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MonPremierProgramme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesDeDonnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesDeDonnes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ciam92/Desktop/IGL-Learning/parcoursDebutant/Module03-Les-variables-et-types-primitifs/03_Type-de-donnees-primitives-en-java/IntroductionJava&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/ciam92/Desktop/IGL-Learning/parcoursDebutant/Module03-Les-variables-et-types-primitifs/04_EntiersFloats-Doubles-en-java copy/IntroductionJava",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Les types de donnes">
     <configuration name="Les types de donnes" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="TypesDeDonnes" />
